@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Laura's 100 Days of Code Blog
+author: JB4706
+email: info@LaBrightWebSolutions.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  #100DaysofCode #R1D1 working on GitHub Pages in the GitHub Lab.  Just changed my theme, and added some boring text.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: LaBrightWebSolu
+github_username:  JB4706
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-architect
+theme: minima
